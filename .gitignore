@@ -1,0 +1,9 @@
+render/events_*json
+.env
+logs
+*.swp
+*.pyc
+old
+.DS_Store
+.python_pid
+ulogme/*
